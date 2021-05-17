@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621254711 source:c:\users\mayre\desktop\parcial-progra\parcial_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
